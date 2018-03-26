@@ -1,0 +1,30 @@
+{
+  "name": "Moltin",
+  "version": "0.1.0",
+  "summary": "A short description of Moltin.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Oliver Foggin/Moltin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Oliver Foggin": "oliver@gospelware.co.uk"
+  },
+  "source": {
+    "git": "https://github.com/Oliver Foggin/Moltin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Moltin/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "4.5.0"
+    ],
+    "Gloss": [
+      "~> 2.0.0"
+    ]
+  }
+}

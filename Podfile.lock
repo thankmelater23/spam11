@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Gloss (2.0.0)
+  - Kingfisher (4.6.4)
+  - Moltin (0.1.0):
+    - Alamofire (= 4.5.0)
+    - Gloss (~> 2.0.0)
+  - SwiftSpinner (1.3.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - Moltin (from `https://github.com/moltin/ios-sdk.git`, branch `v2`)
+  - SwiftSpinner
+
+EXTERNAL SOURCES:
+  Moltin:
+    :branch: v2
+    :git: https://github.com/moltin/ios-sdk.git
+
+CHECKOUT OPTIONS:
+  Moltin:
+    :commit: 1094cd00e06e2094812a7e3d12562f3c65b3be80
+    :git: https://github.com/moltin/ios-sdk.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Gloss: b67617f327406adfd47adf20172d00680a3a31bd
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  Moltin: 0928c8b45a723082d01368c939baedf6d8d5fd76
+  SwiftSpinner: c249fffed3e74b5f3e6492dcc05d6bc1525a8220
+
+PODFILE CHECKSUM: 266d13b51778c0dfc4060efff28035e9a899d726
+
+COCOAPODS: 1.3.1

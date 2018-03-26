@@ -1,0 +1,6 @@
+framework module Pods_XNinety {
+  umbrella header "Pods-XNinety-umbrella.h"
+
+  export *
+  module * { export * }
+}
